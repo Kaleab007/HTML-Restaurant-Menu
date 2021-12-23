@@ -1,0 +1,88 @@
+
+html,
+body {
+    margin: 5% o;
+    padding: 0;
+    background-color: beige;
+    text-align: center;
+}
+
+h1,
+h2 {
+    color: darkred;
+}
+
+h3, 
+p,
+li {
+    color: gold;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+main {
+    margin: 0 20%;
+}
+
+nav {
+    background-color: burlywood;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type:armenian;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.6em;
+    color:  rebeccapurple;
+    margin-right: 25px;
+}
+
+nav a:hover {
+    color: darkred;
+}
+
+#banner {
+    width: auto;
+    height: auto;
+    background-color: blanchedalmond;
+}
+
+#banner img {
+    width: 65%;
+    height: auto;
+}
+
+.service {
+    display: inline-block;
+    text-align: center;
+    background-color: greenyellow;
+    border: 5px solid goldenrod;
+    border-radius: 5px;
+    color: bisque;
+    font-size: 2em;
+    padding: 5px;
+    margin: 5px;
+}
+
+table {
+    border: 3px solid black;
+    width: 100%;
+}
+  
+td,
+th {
+    border: 1px solid black;
+    padding: 5px;
+}
